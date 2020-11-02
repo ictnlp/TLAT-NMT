@@ -39,7 +39,7 @@ $ grep ^H pred.de | cut -f1,3- | cut -c3- | sort -k1n | cut -f2- > pred.de
 
 ## Citation
 ```
-@article{gu2020token,
+@inproceedings{gu2020token,
   title={Token-level Adaptive Training for Neural Machine Translation},
   author={Gu, Shuhao and Zhang, Jinchao and Meng, Fandong and Feng, Yang and Xie, Wanying and Zhou, Jie and Yu, Dong},
   journal={EMNLP2020},
